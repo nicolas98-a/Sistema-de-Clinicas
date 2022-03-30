@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace Domain.Entities
 {
-    public class Persona
+    public abstract class Persona
     {
-        public int Id { get; set; }
+       // public int Id { get; set; }
         public string Nombre { get; set; }
         public string Apellido { get; set; }
-        public List<Telefono> Telefonos { get; set; }
-        public List<Mail> Mails { get; set; }
+        public int Telefono { get; set; }
+        public string Mail { get; set; }
 
     }
 }

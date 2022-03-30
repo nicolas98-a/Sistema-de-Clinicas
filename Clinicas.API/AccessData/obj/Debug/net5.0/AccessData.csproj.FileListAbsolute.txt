@@ -4,3 +4,17 @@ G:\Visual Studio\Div Inf\Sistema-de-Clinicas\Clinicas.API\AccessData\obj\Debug\n
 G:\Visual Studio\Div Inf\Sistema-de-Clinicas\Clinicas.API\AccessData\obj\Debug\net5.0\AccessData.GeneratedMSBuildEditorConfig.editorconfig
 G:\Visual Studio\Div Inf\Sistema-de-Clinicas\Clinicas.API\AccessData\obj\Debug\net5.0\AccessData.AssemblyInfoInputs.cache
 G:\Visual Studio\Div Inf\Sistema-de-Clinicas\Clinicas.API\AccessData\obj\Debug\net5.0\AccessData.AssemblyInfo.cs
+G:\Visual Studio\Div Inf\Sistema-de-Clinicas\Clinicas.API\AccessData\bin\Debug\net5.0\AccessData.deps.json
+G:\Visual Studio\Div Inf\Sistema-de-Clinicas\Clinicas.API\AccessData\bin\Debug\net5.0\AccessData.runtimeconfig.json
+G:\Visual Studio\Div Inf\Sistema-de-Clinicas\Clinicas.API\AccessData\bin\Debug\net5.0\AccessData.runtimeconfig.dev.json
+G:\Visual Studio\Div Inf\Sistema-de-Clinicas\Clinicas.API\AccessData\bin\Debug\net5.0\AccessData.dll
+G:\Visual Studio\Div Inf\Sistema-de-Clinicas\Clinicas.API\AccessData\bin\Debug\net5.0\ref\AccessData.dll
+G:\Visual Studio\Div Inf\Sistema-de-Clinicas\Clinicas.API\AccessData\bin\Debug\net5.0\AccessData.pdb
+G:\Visual Studio\Div Inf\Sistema-de-Clinicas\Clinicas.API\AccessData\bin\Debug\net5.0\Application.pdb
+G:\Visual Studio\Div Inf\Sistema-de-Clinicas\Clinicas.API\AccessData\bin\Debug\net5.0\Domain.pdb
+G:\Visual Studio\Div Inf\Sistema-de-Clinicas\Clinicas.API\AccessData\obj\Debug\net5.0\AccessData.csproj.CoreCompileInputs.cache
+G:\Visual Studio\Div Inf\Sistema-de-Clinicas\Clinicas.API\AccessData\obj\Debug\net5.0\AccessData.csproj.CopyComplete
+G:\Visual Studio\Div Inf\Sistema-de-Clinicas\Clinicas.API\AccessData\obj\Debug\net5.0\AccessData.dll
+G:\Visual Studio\Div Inf\Sistema-de-Clinicas\Clinicas.API\AccessData\obj\Debug\net5.0\ref\AccessData.dll
+G:\Visual Studio\Div Inf\Sistema-de-Clinicas\Clinicas.API\AccessData\obj\Debug\net5.0\AccessData.pdb
+G:\Visual Studio\Div Inf\Sistema-de-Clinicas\Clinicas.API\AccessData\obj\Debug\net5.0\AccessData.genruntimeconfig.cache

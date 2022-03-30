@@ -12,7 +12,7 @@ namespace AccessData.Configuration
     {
         public PacienteConfiguration(EntityTypeBuilder<Paciente> entityTypeBuilder)
         {
-            entityTypeBuilder.HasIndex(x => x.Id);
+            entityTypeBuilder.HasKey(x => x.NroHistoriaClinica);
             entityTypeBuilder.Property(x => x.NroHistoriaClinica).IsRequired().HasMaxLength(15);
             entityTypeBuilder.Property(x => x.Nombre).IsRequired().HasMaxLength(50);
             entityTypeBuilder.Property(x => x.Apellido).IsRequired().HasMaxLength(50);

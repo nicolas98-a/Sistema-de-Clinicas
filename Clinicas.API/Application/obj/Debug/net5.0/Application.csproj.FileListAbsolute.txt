@@ -1,0 +1,15 @@
+G:\Visual Studio\Div Inf\Sistema-de-Clinicas\Clinicas.API\Application\bin\Debug\net5.0\Application.deps.json
+G:\Visual Studio\Div Inf\Sistema-de-Clinicas\Clinicas.API\Application\bin\Debug\net5.0\Application.dll
+G:\Visual Studio\Div Inf\Sistema-de-Clinicas\Clinicas.API\Application\bin\Debug\net5.0\ref\Application.dll
+G:\Visual Studio\Div Inf\Sistema-de-Clinicas\Clinicas.API\Application\bin\Debug\net5.0\Application.pdb
+G:\Visual Studio\Div Inf\Sistema-de-Clinicas\Clinicas.API\Application\bin\Debug\net5.0\Domain.dll
+G:\Visual Studio\Div Inf\Sistema-de-Clinicas\Clinicas.API\Application\bin\Debug\net5.0\Domain.pdb
+G:\Visual Studio\Div Inf\Sistema-de-Clinicas\Clinicas.API\Application\obj\Debug\net5.0\Application.csprojAssemblyReference.cache
+G:\Visual Studio\Div Inf\Sistema-de-Clinicas\Clinicas.API\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Studio\Div Inf\Sistema-de-Clinicas\Clinicas.API\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+G:\Visual Studio\Div Inf\Sistema-de-Clinicas\Clinicas.API\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+G:\Visual Studio\Div Inf\Sistema-de-Clinicas\Clinicas.API\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+G:\Visual Studio\Div Inf\Sistema-de-Clinicas\Clinicas.API\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+G:\Visual Studio\Div Inf\Sistema-de-Clinicas\Clinicas.API\Application\obj\Debug\net5.0\Application.dll
+G:\Visual Studio\Div Inf\Sistema-de-Clinicas\Clinicas.API\Application\obj\Debug\net5.0\ref\Application.dll
+G:\Visual Studio\Div Inf\Sistema-de-Clinicas\Clinicas.API\Application\obj\Debug\net5.0\Application.pdb

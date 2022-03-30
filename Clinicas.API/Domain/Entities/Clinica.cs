@@ -10,8 +10,8 @@ namespace Domain.Entities
     {
         public int ClinicaId { get; set; }
         public string Nombre { get; set; }
-        public List<Telefono> Telefonos { get; set; }
-        public List<Mail> Mails { get; set; }
+        public int Telefono { get; set; }
+        public string Mail { get; set; }
         public List<Medico> Medicos { get; set; }
         public List<Paciente> Pacientes { get; set; }
 
